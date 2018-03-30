@@ -1,7 +1,16 @@
 {
-  "name": "sn-bbende-futura-titanium",
-  "version": "1.0.113",
+  "identifier": "com.bbende.futura-titanium",
+  "name": "Futura Titanium (bbende)",
+  "description": "A modified futura theme.",
+  "content_type": "SN|Theme",
+  "version": "1.0.114",
   "main": "dist/dist.css",
+
+  "url": "https://raw.githubusercontent.com/bbende/futura-theme/master/package.json",
+  "download_url": "https://github.com/bbende/futura-theme/archive/1.0.114.zip",
+  "latest_url": "https://raw.githubusercontent.com/bbende/futura-theme/master/package.json",
+  "marketing_url": "https://github.com/bbende/futura-theme",
+
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
